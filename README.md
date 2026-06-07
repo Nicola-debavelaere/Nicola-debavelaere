@@ -25,8 +25,3 @@ Algorithm optimization in C.
 ## Technologies
 
 Python • C • Git • Linux • Pandas • NumPy • PyTorch • HuggingFace
-
-## Contact
-
-LinkedIn : ...
-Email : ...
